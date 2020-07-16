@@ -12,7 +12,8 @@
     "react-dropzone": "^11.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.3.0",
+    "lodash": ">=4.17.19"
   },
   "scripts": {
     "start": "react-scripts start",
