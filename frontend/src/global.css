@@ -1,0 +1,27 @@
+*{
+    outline: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color:#e9ebee;
+}
+
+
+
+.icon-container{
+    
+    height:10%;
+    width: 100%;
+    background-color:#3b5998;
+}
+
+.icon-container img{
+    margin-left: 330px;
+    width: 200px;
+    height: 80;
+    size: 80px;
+    
+    
+}
+

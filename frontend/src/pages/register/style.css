@@ -1,0 +1,144 @@
+
+.register-container{
+   
+   width:500px;
+   position:absolute;
+   padding-left: 850px;
+   padding-top: 110px;
+
+}
+
+.register-container div{
+    padding-bottom: 10px;
+}
+
+.register-container header{
+    position: absolute;
+    padding-left: 160px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-bottom: 150px;
+}
+
+.register-container input{
+  
+        height:39px;
+        border-color: #bdc7d8;
+        border-radius: 5px;
+        border: 1px solid #ccd0d5;
+        font-size: 16px;
+        font:Arial;
+        cursor: text;
+        padding-left: 10px;
+        outline: none;
+        color: #353537;
+    
+}
+
+.Box-Coitainer{
+    display: inline-block;
+    width: 450px;
+    margin-right: 10px;
+}
+
+.inputs{
+    width:410px;
+    margin-bottom: 8px;
+}
+
+.input-box{
+    margin-right: 6px;
+    margin-bottom: 10px;
+}
+
+
+
+.button-cadastrar{
+    width: 400px;
+     height: 50px;
+     display: flex;
+    justify-content: center;
+
+}
+
+.button-cadastrar button{
+    width: 200px;
+    height: 40px;
+    background-color:#609e4d;
+    margin-top: 30px;
+    margin-left: 55px;
+    color: white;
+    font-size: 20px;
+    font-weight:bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #477b2e;
+    border-radius: 5px;
+    cursor: pointer;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    outline: none; 
+}
+
+.button-cadastrar h3{
+    margin-left: 80px;
+    color:#3b5998;
+    cursor:pointer;
+}
+
+.right-container{
+    margin-left: 350px;
+    width: 433px;
+    height: 80px;
+    position:absolute;   
+    
+}
+
+.right-container h1{
+    
+    margin-right: 30px;
+    padding-top: 37px;
+    color: #0e385f;
+    word-spacing: -1px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.right-image {
+    position:absolute;
+    margin-top: 135px;
+    width: 537px;
+    height: 195px;
+    margin-left:320px;
+}
+
+
+
+.header-container header{
+   position:absolute;
+   font-size: 37px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bolder;
+   color: #333;
+   margin-left: 890px;
+   margin-top:15px;
+
+}
+
+.header-container p{
+    position:absolute;
+    margin-left: 890px;
+    margin-top:65px;
+    font-size: 20px;
+    color: black;
+    margin-right: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.politicas{
+    font-size: 9px;
+    width: 430px;
+    margin-left: 50px;
+    color:rgb(54, 52, 52)
+}
+
+
