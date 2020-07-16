@@ -18,7 +18,7 @@
     "knex": "^0.21.1",
     "pg": "^8.2.1",
     "socket.io": "^2.3.0",
-    "websocket-extensions": "^0.1.4"
+    "lodash": ">=4.17.19"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
